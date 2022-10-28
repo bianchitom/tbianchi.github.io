@@ -1,7 +1,7 @@
 baseURL = "https://tbianchi.github.io"
 languageCode = "en-us"
 title = "terminal-cookbook"
-theme = "terminal-cookbook"
+theme = "hugo-theme-terminal-cookbook"
 
 # optional, if you want to use plain html
 # in your markdown recipe files
