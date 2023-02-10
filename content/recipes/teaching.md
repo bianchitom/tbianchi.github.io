@@ -4,7 +4,7 @@ summary: "Every party needs these!"
 date: 2022-03-23T20:56:42+02:00
 draft: false
 time: "15m" # how much time it will take to cook this recipe
-# tags: ["vegetarian", "simple", "one-pot"]
+tags: ["Vehicle Security", "IoT Security"]
 # optional
 featured_image: "/boiled-eggs.png"
 ---
