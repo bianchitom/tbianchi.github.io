@@ -1,5 +1,5 @@
 ---
-title: "Second publication"
+title: "Publication 2"
 summary: "Fantastic boiled eggs - My great-grandpas recipe"
 date: 2022-03-23T20:56:42+02:00
 draft: false

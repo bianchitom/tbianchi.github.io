@@ -1,5 +1,5 @@
 ---
-title: "Teaching Activity"
+title: "3. Teaching Activity"
 summary: "Every party needs these!"
 date: 2022-03-23T20:56:42+02:00
 draft: false
