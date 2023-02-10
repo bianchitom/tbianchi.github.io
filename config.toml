@@ -1,4 +1,4 @@
-baseURL = "https://biachitom.github.io"
+baseURL = "https://bianchitom.github.io"
 languageCode = "en-us"
 title = "terminal-cookbook"
 theme = "hugo-theme-terminal-cookbook"
