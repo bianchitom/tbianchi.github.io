@@ -14,5 +14,5 @@ featured_image: "/boiled-eggs.png"
 
 ## Work-in-Progress
 
-1. Identity-Based Authentication for On-Demand Charging of Electric Vehicles
-2. QEVSEC: Quick Electric Vehicle SEcure Charging via Dynamic Wireless Power Transfer
+1. In progress <!-- Identity-Based Authentication for On-Demand Charging of Electric Vehicles -->
+2. In progress <!-- QEVSEC: Quick Electric Vehicle SEcure Charging via Dynamic Wireless Power Transfer -->
