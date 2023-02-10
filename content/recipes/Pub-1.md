@@ -1,5 +1,5 @@
 ---
-title: "first publication"
+title: "1 publication"
 summary: "Fantastic boiled eggs - My great-grandpas recipe"
 date: 2022-03-23T20:56:42+02:00
 draft: false
