@@ -1,6 +1,6 @@
 ---
-title: "Identity-Based Authentication for On-Demand Charging of Electric Vehicles"
-summary: "Authentication Protocol for Dynamic Charging"
+title: "QEVSEC: Quick Electric Vehicle SEcure Charging via Dynamic Wireless Power Transfer"
+summary: "Vulnerability analysis of authentication protocol and improvements"
 date: 2022-03-23T20:56:42+02:00
 draft: false
 time: "20m" # how much time it will take to cook this recipe
