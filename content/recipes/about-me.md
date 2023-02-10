@@ -4,7 +4,7 @@ summary: "Fantastic boiled eggs - My great-grandpas recipe"
 date: 2022-03-23T20:56:42+02:00
 draft: false
 time: "15m" # how much time it will take to cook this recipe
-tags: ["daily-life", "academic-life"]
+# tags: ["daily-life", "academic-life"]
 # optional
 featured_image: "/boiled-eggs.png"
 ---
