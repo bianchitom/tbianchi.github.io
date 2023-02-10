@@ -15,8 +15,8 @@ featured_image: "/bianchi-cv.jpg"
 3. Bachelor
 
 
-## Private Lige
+## Private Life
 
-1. Security Stuff
+1. Security Stuff and Interests
 2. Climbing
 
