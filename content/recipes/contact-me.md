@@ -1,10 +1,10 @@
 ---
-title: "first publication"
+title: "Contact me"
 summary: "Fantastic boiled eggs - My great-grandpas recipe"
 date: 2022-03-23T20:56:42+02:00
 draft: false
 time: "15m" # how much time it will take to cook this recipe
-tags: ["Vehicle Security"] # uee tag for these ones
+# tags: ["Vehicle Security", "IoT Security"]
 # optional
 featured_image: "/boiled-eggs.png"
 ---
