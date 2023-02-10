@@ -1,6 +1,6 @@
 baseURL = "https://bianchitom.github.io"
 languageCode = "en-us"
-title = "terminal-cookbook"
+title = "terminal-bianchitom"
 theme = "hugo-theme-terminal-cookbook"
 
 # optional, if you want to use plain html

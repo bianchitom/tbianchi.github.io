@@ -8,6 +8,26 @@ tags: ["Vehicle Security", "IoT Security"]
 # optional
 featured_image: "/boiled-eggs.png"
 ---
+--
+title: "Publications"
+summary: "Family amount of boiled eggs!"
+date: 2022-03-23T20:56:42+02:00
+draft: false
+time: "15m" # how much time it will take to cook this recipe
+tags: ["Vehicle Security", "IoT Security"]
+# optional
+featured_image: "/boiled-eggs.png"
+--
+--
+title: "Publications"
+summary: "Family amount of boiled eggs!"
+date: 2022-03-23T20:56:42+02:00
+draft: false
+time: "15m" # how much time it will take to cook this recipe
+tags: ["Vehicle Security", "IoT Security"]
+# optional
+featured_image: "/boiled-eggs.png"
+--
 ## Ingredients
 
 <table>
