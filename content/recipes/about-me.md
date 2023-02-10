@@ -6,7 +6,7 @@ draft: false
 time: "2m" # how much time it will take to cook this recipe
 # tags: ["Vehicle Security", "IoT Security"]
 # optional
-featured_image: <img src="/bianchi-cv.jpg"  width="500px">
+featured_image: "/bianchi-cv.jpg"
 ---
 ## Academic Life
 
